@@ -1,64 +1,112 @@
-<div align="center">
-
-# Olá, eu sou o Samuel Afonso 👋
-
-<!-- Typing Animation - Cor 58A6FF (Blue GitHub Dark) -->
-<a href="https://github.com/samuelafonsoDev">
-  <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
-</a>
+# Samuel Afonso
 
 <p align="center">
-  A transformar dados em decisões e ideias em produtos de alta performance.
+
+<strong>Fullstack Developer</strong> • <strong>Data Engineering Enthusiast</strong>
+
+Construo aplicações web modernas, escaláveis e orientadas a boas práticas.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/samuelafonsoDev">GitHub</a> •
+
+<a href="LINKEDIN_AQUI">LinkedIn</a> •
+
+<a href="[mailto:SEU_EMAIL_AQUI">Email</a>](mailto:SEU_EMAIL_AQUI">Email</a>)
+
 </p>
 
 ---
 
-</div>
+## Sobre
 
-### 👨‍💻 Sobre Mim
-Especialista focado em arquitetura de dados e desenvolvimento de interfaces modernas. Atualmente focado em engenharia de dados em larga escala e ecossistemas Cloud.
-
-- 🌍 Baseado em **Angola 🇦🇴**
-- 🚀 Atualmente a aprofundar **Data Engineering & Cloud (AWS/Azure)**
-- ✉️ Contacto: [samuelafonso@email.com](mailto:samuelafonso@email.com)
+Desenvolvedor focado na construção de aplicações web modernas, escaláveis e orientadas a boas práticas. Experiência em desenvolvimento fullstack e interesse crescente em engenharia de dados, com foco em soluções eficientes e orientadas a impacto.
 
 ---
 
-### 🛠️ Stack Tecnológica
+## Tecnologias & Ferramentas
 
-**Core & Backend**
-![Python](https://img.shields.io)
-![FastAPI](https://img.shields.io)
-![Node.js](https://img.shields.io)
+### Frontend
 
-**Data Engineering**
-![SQL](https://img.shields.io)
-![Pandas](https://img.shields.io)
-![Spark](https://img.shields.io)
-![AWS](https://img.shields.io)
+- HTML, CSS, JavaScript
+- Tailwind CSS
+- React
 
-**Frontend**
-![React](https://img.shields.io)
-![TailwindCSS](https://img.shields.io)
+### Backend
+
+- PHP
+- Flask (Python)
+
+### Bases de Dados
+
+- SQL
+- MySQL
+- PostgreSQL
+
+### Engenharia de Dados (Júnior)
+
+- Python
+- Pandas
+- NumPy
+
+### Ferramentas & DevOps
+
+- Git & GitHub
+- Docker
+- VS Code
 
 ---
 
-### 📊 GitHub Insights
+## Projetos em Destaque
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app" />
-  <img height="165em" src="https://github-readme-stats.vercel.app" />
-</div>
+Abaixo estão os tipos de projetos que você encontrará no meu GitHub. (Em breve, vou fixar aqui 3 a 6 repositórios com links diretos e demos.)
+
+### Projetos Fullstack
+
+- Aplicações web completas com autenticação, CRUD e integração com APIs
+- Interfaces modernas e responsivas com React e Tailwind
+
+### Projetos Backend
+
+- APIs REST com PHP e Flask
+- Estruturação de sistemas escaláveis e organizados
+
+### Projetos de Dados
+
+- Processos ETL com Python
+- Manipulação e análise de dados com Pandas
+- Integração com bases de dados SQL
 
 ---
 
-<div align="center">
+## Organização dos Repositórios
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelafonsoDev)
-[![Portfolio](https://img.shields.io)](https://github.com/samuelafonsoDev)
+Para manter tudo claro e profissional, sigo este padrão de nomes:
 
-<br/>
+- `frontend-*` → Interfaces e aplicações React
+- `backend-*` → APIs e lógica de servidor
+- `fullstack-*` → Projetos completos
+- `data-*` → Projetos de engenharia de dados
+- `experiments-*` → Testes e estudos
 
-<sub>*"Data tells the story. Code builds the future."*</sub>
+---
 
-</div>
+## Objetivo Profissional
+
+Busco oportunidades para contribuir em projetos reais, aplicando boas práticas de desenvolvimento, arquitetura de software e análise de dados, enquanto continuo a evoluir como desenvolvedor fullstack e na área de dados.
+
+---
+
+## Contacto
+
+- LinkedIn: LINKEDIN_AQUI
+- Email: SEU_EMAIL_AQUI
+- GitHub: https://github.com/samuelafonsoDev
+
+---
+
+## Nota
+
+Este perfil reflete a minha evolução contínua como desenvolvedor. Novos projetos e melhorias
