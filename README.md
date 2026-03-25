@@ -1,97 +1,14 @@
-# Samuel Afonso
+<h3 align="center">Desenvolvedor focado na construção de aplicações web modernas, escaláveis ​​e orientadas para boas práticas. Possuo experiência em desenvolvimento fullstack e interesse crescente em engenharia de dados, com foco em soluções eficientes e orientadas a impacto.</h3>
 
-<p align="center">
-  <strong>Fullstack Developer</strong> • <strong>Data Engineering Enthusiast</strong><br/>
-  Construo aplicações web modernas, escaláveis e orientadas a boas práticas.
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://fb.com/samuelafonsoficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuelafonsoficial" height="30" width="40" /></a>
+<a href="https://instagram.com/samuelafonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuelafonso" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/samuelafonsoDev">GitHub</a> •
-  <a href="LINKEDIN_AQUI">LinkedIn</a> •
-  <a href="mailto:SEU_EMAIL_AQUI">Email</a>
-</p>
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelafonsodev&show_icons=true&locale=en" alt="samuelafonsodev" /></p>
 
-## Sobre
-
-Desenvolvedor focado na construção de aplicações web modernas, escaláveis e orientadas a boas práticas. Possuo experiência em desenvolvimento fullstack e interesse crescente em engenharia de dados, com foco em soluções eficientes e orientadas a impacto.
-
----
-
-## Tecnologias & Ferramentas
-
-### Frontend
-- HTML, CSS, JavaScript  
-- Tailwind CSS  
-- React  
-
-### Backend
-- PHP  
-- Flask (Python)  
-
-### Bases de Dados
-- SQL  
-- MySQL  
-- PostgreSQL  
-
-### Engenharia de Dados (Júnior)
-- Python  
-- Pandas  
-- NumPy  
-
-### Ferramentas & DevOps
-- Git & GitHub  
-- Docker  
-- VS Code  
-
----
-
-## Projetos em Destaque
-
-Em breve estarão fixados aqui os principais projetos com links diretos e demonstrações.
-
-### 🔹 Fullstack
-- Aplicações completas com autenticação, CRUD e integração com APIs  
-- Interfaces modernas e responsivas com React e Tailwind  
-
-### 🔹 Backend
-- APIs REST com PHP e Flask  
-- Estruturação de sistemas escaláveis  
-
-### 🔹 Dados
-- Processos ETL com Python  
-- Manipulação e análise de dados com Pandas e NumPy  
-- Integração com bases de dados SQL  
-
----
-
-## Organização dos Repositórios
-
-Para manter consistência e profissionalismo:
-
-- `frontend-*` → Interfaces e aplicações React  
-- `backend-*` → APIs e lógica de servidor  
-- `fullstack-*` → Projetos completos  
-- `data-*` → Projetos de engenharia de dados  
-- `experiments-*` → Testes e estudos  
-
----
-
-## Objetivo Profissional
-
-Busco oportunidades para contribuir em projetos reais, aplicando boas práticas de desenvolvimento, arquitetura de software e análise de dados, enquanto evoluo como desenvolvedor fullstack e engenheiro de dados.
-
----
-
-## Contacto
-
-- LinkedIn: LINKEDIN_AQUI  
-- Email: SEU_EMAIL_AQUI  
-- GitHub: https://github.com/samuelafonsoDev  
-
----
-
-## Nota
-
-Este perfil está em constante evolução. Novos projetos e melhorias são adicionados regularmente.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelafonsodev&" alt="samuelafonsodev" /></p>
