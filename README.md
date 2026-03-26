@@ -1,21 +1,16 @@
 <h2 align="center">Samuel Afonso</h2>
 
 <p align="center">
-Desenvolvedor Fullstack focado em aplicações web modernas, escaláveis e orientadas a boas práticas, com interesse em engenharia de dados.
+Desenvolvedor em formação com foco em <strong>Frontend</strong> e <strong>Engenharia de Dados Júnior</strong>.
 </p>
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🚀 Sobre mim
 
-<p align="left">
-<a href="https://fb.com/samuelafonsoficial" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/samuelafonso" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-</p>
+Sou um desenvolvedor focado na criação de aplicações web modernas, sempre buscando aplicar boas práticas, organização e escalabilidade.
+
+Tenho experiência com desenvolvimento frontend e estou expandindo minhas habilidades em engenharia de dados, construindo projetos práticos diariamente para evoluir tecnicamente.
 
 ---
 
@@ -27,7 +22,6 @@ Desenvolvedor Fullstack focado em aplicações web modernas, escaláveis e orien
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
@@ -39,13 +33,12 @@ Desenvolvedor Fullstack focado em aplicações web modernas, escaláveis e orien
 
 ### 📌 Foco
 
-- Desenvolvimento Fullstack  
-- APIs REST (PHP & Flask)  
-- Engenharia de Dados (Python, Pandas, SQL)  
+- Desenvolvimento Frontend  
+- Engenharia de Dados (Júnior)  
+- Construção de projetos práticos e escaláveis  
 
 ---
 
-### 📫 Contacto
+### 📈 Em evolução
 
-- GitHub: https://github.com/samuelafonsoDev  
-- Email: SEU_EMAIL_AQUI  
+Estou constantemente aprimorando minhas habilidades e desenvolvendo novos projetos para consolidar meu conhecimento e crescer como desenvolvedor.
