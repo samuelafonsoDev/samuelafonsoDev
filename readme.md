@@ -1,7 +1,7 @@
 <h2 align="center">Samuel Afonso</h2>
 
 <p align="center">
-Desenvolvedor <strong>Frontend</strong> e <strong>Engenharia de Dados Júnior</strong>.
+<strong>Desenvolvedor Frontend e Engenharia de Dados Júnior</strong>.
 </p>
 ---
 
