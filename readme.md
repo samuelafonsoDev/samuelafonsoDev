@@ -4,10 +4,13 @@
 Desenvolvedor <strong>Frontend</strong> e <strong>Engenharia de Dados Júnior</strong>.
 </p>
 ---
+
 ### 🚀 Sobre mim
+
 
 Sou um desenvolvedor focado na criação de aplicações web modernas, sempre buscando aplicar boas práticas, organização e escalabilidade.
 Tenho experiência com desenvolvimento frontend e estou expandindo minhas habilidades em engenharia de dados, construindo projetos práticos diariamente para evoluir tecnicamente.
+
 ---
 ### 🛠️ Tecnologias
 
