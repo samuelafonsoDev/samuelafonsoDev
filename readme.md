@@ -34,9 +34,7 @@
   <img src="https://skillicons.dev/icons?i=py,pandas,mysql,postgres,git,github,vscode&perline=7" alt="Data Engineering Skills" />
 </p>
 
-<details>
-<summary>📋 Ver detalhes das tecnologias</summary>
-<br>
+
 
 **Front-End**
 `HTML5` · `CSS3` · `Tailwind CSS` · `JavaScript` · `React` · `Next.js` · `Figma`
