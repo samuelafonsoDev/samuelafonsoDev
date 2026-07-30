@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://SEU-PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -36,10 +36,10 @@
 `HTML5` · `CSS3` · `Tailwind CSS` · `JavaScript` · `React` · `Next.js`
 
 **Dados & Backend**
-`Python` · `Pandas` · `SQL` · `MySQL` · `APIs REST`
+`Python` · `Pandas` · `SQL` · `MySQL` · `PostgreSQL` · `APIs REST`
 
 **Ferramentas**
-`Git` · `GitHub` · `VS Code`
+`Git` · `GitHub` · `VS Code` · `Docker`
 
 </details>
 
@@ -47,13 +47,19 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="Sequência do GitHub" />
 </p>
 
 ---
@@ -61,11 +67,11 @@
 ### 🚀 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO/PROJETO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/SEU-USUARIO/PROJETO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=PROJETO-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
