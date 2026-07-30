@@ -49,27 +49,4 @@
 
 </details>
 
----
 
-### 📊 Atividade de Commits & Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true" alt="Gráfico de Commits" />
-</p>
-
----
-
-### 🚀 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visualizações+no+perfil&color=2F81F7&style=flat" />
-</p>
