@@ -24,8 +24,14 @@
 
 ### 🛠️ Stack & Ferramentas
 
+<!-- Linha 1: Front-End -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,js,py,mysql,postgres,git,github,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&perline=7" alt="Front-End Skills" />
+</p>
+
+<!-- Linha 2: Engenharia de Dados & Ferramentas -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pandas,mysql,postgres,git,github,vscode&perline=7" alt="Data Engineering Skills" />
 </p>
 
 <details>
@@ -33,33 +39,22 @@
 <br>
 
 **Front-End**
-`HTML5` · `CSS3` · `Tailwind CSS` · `JavaScript` · `React` · `Next.js`
+`HTML5` · `CSS3` · `Tailwind CSS` · `JavaScript` · `React` · `Next.js` · `Figma`
 
-**Dados & Backend**
+**Engenharia de Dados & Backend**
 `Python` · `Pandas` · `SQL` · `MySQL` · `PostgreSQL` · `APIs REST`
 
 **Ferramentas**
-`Git` · `GitHub` · `VS Code` · `Docker`
+`Git` · `GitHub` · `VS Code`
 
 </details>
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
+### 📊 Atividade de Commits & Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="Sequência do GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true" alt="Gráfico de Commits" />
 </p>
 
 ---
@@ -73,16 +68,6 @@
   <a href="https://github.com/SEU-USUARIO/NOME-DO-PROJETO-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-2&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-
----
-
-### 📫 Vamos conversar?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
