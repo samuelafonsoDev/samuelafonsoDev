@@ -25,7 +25,7 @@
 
 <!-- Linha 1: Front-End -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&theme=dark&perline=7" alt="Front-End Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind, alt="Front-End Skills" />
 </p>
 
 <!-- Linha 2: Engenharia de Dados & Ferramentas -->
